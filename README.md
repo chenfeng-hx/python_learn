@@ -1,0 +1,3 @@
+# python_learn
+python小白之迷途的十字路口
+主要用来存放MOOC上的北理工大学嵩天老师教学的python案例
